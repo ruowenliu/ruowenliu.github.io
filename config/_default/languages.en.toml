@@ -14,7 +14,7 @@ copyright = "Copyright © 2025, Ruowen Liu. All rights reserved."
 
 [params.author]
   name = "Ruowen Liu"
-  image = "img/rliu.jpg"
+  image = "img/author.jpg"
   headline = "Assistant Professor of Mathematics"
   # bio = "A little bit about you"
   links = [
