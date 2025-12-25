@@ -3,8 +3,8 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Ruowen Liu | Homepage"
+copyright = "Copyright © 2025, Ruowen Liu. All rights reserved."
 
 [params]
   dateFormat = "2 January 2006"
@@ -13,12 +13,15 @@ title = "Congo"
   # description = "My awesome website"
 
 [params.author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
+  name = "Ruowen Liu"
+  image = "img/rliu.jpg"
+  headline = "Assistant Professor of Mathematics"
   # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  links = [
+    { email = "mailto:rliu@rider.edu" },
+    { github = "https://github.com/ruowenliu" },
+    { google-scholar = "https://scholar.google.com/citations?user=Wwh-iNEAAAAJ&hl=en" },
+    { linkedin = "https://linkedin.com/in/ruowen-liu-85226b58" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,17 +33,14 @@ title = "Congo"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
-  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { kofi = "https://ko-fi.com/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
@@ -64,4 +64,4 @@ title = "Congo"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]
