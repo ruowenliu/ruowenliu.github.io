@@ -1,6 +1,6 @@
 ---
-title: "Reseach Papers"
-description: "List of research papers"
+title: "Reseach Projects"
+description: "List of research projects"
 
 cascade:
   showReadingTime: false
@@ -9,6 +9,6 @@ cascade:
   showTableOfContents: false
 ---
 
-This is a list of research papers.
+This is a list of research projects.
 
 ---
