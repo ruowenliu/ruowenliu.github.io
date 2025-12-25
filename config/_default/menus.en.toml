@@ -21,7 +21,7 @@
   weight = 20
 
 [[main]]
-  identifier = "Courses"
+  name = "Publications2"
   pageRef = "courses"
   weight = 30
 
