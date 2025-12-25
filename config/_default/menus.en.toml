@@ -21,14 +21,15 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  pageRef = "publications"
+  identifier = "Courses"
+  pageRef = "courses"
   weight = 30
 
 [[main]]
-  identifier = "Courses"
-  pageRef = "courses"
+  name = "Publications"
+  pageRef = "publications"
   weight = 40
+
 
 [[main]]
   identifier = "search"
