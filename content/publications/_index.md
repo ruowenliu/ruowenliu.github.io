@@ -1,6 +1,6 @@
 ---
-title: "ABC"
-description: "List of ABC"
+title: "Publications"
+description: "List of publications"
 
 cascade:
   showReadingTime: false
@@ -9,6 +9,6 @@ cascade:
   showTableOfContents: false
 ---
 
-This is a list of ABC.
+This is a list of publications.
 
 ---

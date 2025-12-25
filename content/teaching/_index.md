@@ -1,5 +1,5 @@
 ---
-title: "Teaching Courses"
+title: "Courses"
 description: "List of courses taught"
 
 cascade:
